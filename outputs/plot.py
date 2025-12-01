@@ -12,7 +12,7 @@ sns.set(
     style="darkgrid",
     rc={
         "figure.figsize": (7.2, 4.45),
-        "text.usetex": True,
+        "text.usetex": False,
         "xtick.labelsize": 16,
         "ytick.labelsize": 16,
         "font.size": 15,
